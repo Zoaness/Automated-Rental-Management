@@ -1,0 +1,159 @@
+Zoa
+jzoa
+"for all of you know well, that the standard of justice, depends on the equality of power to compel."
+
+Nash — 11/08/2022 9:05 PM
+Par
+Sama ka bukas
+Zoa — 11/08/2022 9:45 PM
+goodnight
+Nash — 11/08/2022 9:47 PM
+Gn
+Zoa — 11/14/2022 3:13 PM
+hey man
+sama ka bukas
+Nash — 11/14/2022 4:50 PM
+yeah
+Zoa — 11/16/2022 4:59 PM
+pre
+send mo nga ung pic
+na hawak ni salinas ung manok
+rinaratrat ako ng mama ko hahhaahahahaa
+Nash — 11/16/2022 5:00 PM
+HAHAHAH GEH
+Image
+Zoa — 11/16/2022 5:03 PM
+thanks man HAHAHAHA
+Nash — 11/16/2022 5:08 PM
+Np
+Zoa — 11/21/2022 9:47 AM
+pre
+Nash — 11/21/2022 2:34 PM
+huh
+slr HAHAHAHAA
+Nash — Today at 7:12 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bahnschrift+Light+Condensed:wght@300&family=Bahnschrift+Light+SemiCondensed:wght@300&family=Bahnschrift+SemiBold:wght@600&display=swap">
+Expand
+LoginPageSyntax.txt
+4 KB
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bahnschrift+Light+Condensed:wght@300&family=Bahnschrift+Light+SemiCondensed:wght@300&family=Bahnschrift+SemiBold:wght@600&display=swap">
+Expand
+RegisterPageSyntax.txt
+4 KB
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bahnschrift+Light+Condensed:wght@300&family=Bahnschrift+Light+SemiCondensed:wght@300&family=Bahnschrift+SemiBold:wght@600&display=swap">
+Expand
+ForgorSyntax.txt
+4 KB
+﻿
+Nash
+nashpotato_
+i hate prescription drugs
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bahnschrift+Light+Condensed:wght@300&family=Bahnschrift+Light+SemiCondensed:wght@300&family=Bahnschrift+SemiBold:wght@600&display=swap">
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f8ff; /* Washed out blue */
+        }
+
+        .container {
+            font-family: 'Bahnschrift Light Condensed', sans-serif;
+            background-color: #deebf7; /* Hex code for pastel blue */
+            border-radius: 10px;
+            padding: 20px;
+            width: 300px;
+            text-align: left;
+        }
+
+        .input-label {
+            color: #8faadc; /* Hex code #8faadc */
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .input-box {
+            background-color: #bdd7ee; /* Hex code #bdd7ee */
+            color: #002366; /* Darker version of washed out blue */
+            font-family: 'Bahnschrift Light Condensed', sans-serif;
+            border: none;
+            border-radius: 5px;
+            padding: 8px;
+            width: calc(100% - 16px); /* Adjusted width to consider padding */
+            margin-bottom: 15px;
+        }
+
+        .action-button {
+            background-color: white;
+            color: #002366; /* Dark blue */
+            font-family: 'Bahnschrift SemiBold', sans-serif;
+            text-transform: uppercase;
+            border: none;
+            border-radius: 5px;
+            padding: 10px;
+            width: 100%;
+            cursor: pointer;
+        }
+
+        .link {
+            color: #002366; /* Dark blue */
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <!-- Register Page -->
+    <div class="container" id="register-container">
+        <label for="email" class="input-label">email:</label>
+        <input type="text" id="email" class="input-box">
+
+        <label for="username" class="input-label">username:</label>
+        <input type="text" id="username" class="input-box">
+
+        <label for="password-register" class="input-label">password:</label>
+        <input type="password" id="password-register" class="input-box">
+
+        <button class="action-button" onclick="register()">Register</button>
+
+        <p class="link" onclick="redirectToLogin()">Already have an account?</p>
+    </div>
+
+    <script>
+        function register() {
+            // Implementation for the "Register" button
+            alert("Perform registration action");
+        }
+
+        function redirectToLogin() {
+            // Implementation for the "Already have an account?" link
+            // You can add the logic for directing to the Log In page here
+        }
+    </script>
+</body>
+</html>
+RegisterPageSyntax.txt
+4 KB
